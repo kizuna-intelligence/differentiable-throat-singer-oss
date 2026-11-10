@@ -1,0 +1,228 @@
+{
+  "version": 2,
+  "title": "三拍子の音階",
+  "bpm": 120,
+  "time_signature": "3/4",
+  "key": "C major",
+  "sections": [
+    {
+      "name": "scale",
+      "from_beat": 0,
+      "bars": 8
+    }
+  ],
+  "chords": [
+    {
+      "beat": 0,
+      "chord": "C"
+    },
+    {
+      "beat": 6,
+      "chord": "F"
+    },
+    {
+      "beat": 12,
+      "chord": "G"
+    },
+    {
+      "beat": 18,
+      "chord": "C"
+    }
+  ],
+  "output_name": "songkit_3_4_C_major_120",
+  "mix": {
+    "lufs": -14,
+    "dbtp": -1,
+    "reverb_seconds": 0.8,
+    "reverb_wet_db": -18,
+    "chord_reverb_wet_db": -15
+  },
+  "parts": [
+    {
+      "id": "lead",
+      "name": "リード",
+      "role": "lead",
+      "notes": [
+        {
+          "start": 0,
+          "dur": 0.85,
+          "midi": 60,
+          "lyric": "ら"
+        },
+        {
+          "start": 1,
+          "dur": 0.85,
+          "midi": 62,
+          "lyric": "ら"
+        },
+        {
+          "start": 2,
+          "dur": 0.85,
+          "midi": 64,
+          "lyric": "ら"
+        },
+        {
+          "start": 3,
+          "dur": 0.85,
+          "midi": 65,
+          "lyric": "ら"
+        },
+        {
+          "start": 4,
+          "dur": 0.85,
+          "midi": 67,
+          "lyric": "ら"
+        },
+        {
+          "start": 5,
+          "dur": 0.85,
+          "midi": 69,
+          "lyric": "ら"
+        },
+        {
+          "start": 6,
+          "dur": 0.85,
+          "midi": 71,
+          "lyric": "ら"
+        },
+        {
+          "start": 7,
+          "dur": 0.85,
+          "midi": 72,
+          "lyric": "ら"
+        },
+        {
+          "start": 8,
+          "dur": 0.85,
+          "midi": 60,
+          "lyric": "ら"
+        },
+        {
+          "start": 9,
+          "dur": 0.85,
+          "midi": 62,
+          "lyric": "ら"
+        },
+        {
+          "start": 10,
+          "dur": 0.85,
+          "midi": 64,
+          "lyric": "ら"
+        },
+        {
+          "start": 11,
+          "dur": 0.85,
+          "midi": 65,
+          "lyric": "ら"
+        },
+        {
+          "start": 12,
+          "dur": 0.85,
+          "midi": 67,
+          "lyric": "ら"
+        },
+        {
+          "start": 13,
+          "dur": 0.85,
+          "midi": 69,
+          "lyric": "ら"
+        },
+        {
+          "start": 14,
+          "dur": 0.85,
+          "midi": 71,
+          "lyric": "ら"
+        },
+        {
+          "start": 15,
+          "dur": 0.85,
+          "midi": 72,
+          "lyric": "ら"
+        },
+        {
+          "start": 16,
+          "dur": 0.85,
+          "midi": 60,
+          "lyric": "ら"
+        },
+        {
+          "start": 17,
+          "dur": 0.85,
+          "midi": 62,
+          "lyric": "ら"
+        },
+        {
+          "start": 18,
+          "dur": 0.85,
+          "midi": 64,
+          "lyric": "ら"
+        },
+        {
+          "start": 19,
+          "dur": 0.85,
+          "midi": 65,
+          "lyric": "ら"
+        },
+        {
+          "start": 20,
+          "dur": 0.85,
+          "midi": 67,
+          "lyric": "ら"
+        },
+        {
+          "start": 21,
+          "dur": 0.85,
+          "midi": 69,
+          "lyric": "ら"
+        },
+        {
+          "start": 22,
+          "dur": 0.85,
+          "midi": 71,
+          "lyric": "ら"
+        },
+        {
+          "start": 23,
+          "dur": 0.85,
+          "midi": 72,
+          "lyric": "ら"
+        }
+      ]
+    },
+    {
+      "id": "bass",
+      "name": "ベース",
+      "role": "bass",
+      "body_scale": 1.18,
+      "patterns": [
+        {
+          "type": "bass_root_fifth",
+          "syllable": "ど",
+          "range": [
+            45,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chord",
+      "name": "和音",
+      "role": "chord",
+      "body_scale": 0.95,
+      "pan": -0.4,
+      "patterns": [
+        {
+          "type": "offbeat_chord",
+          "voices": 1,
+          "voice": 0,
+          "range": [
+            60,
+            69
+          ],
+          "syllable": "ぱ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "source": "CHIMERA phonetics/{vowel,consonant}Targets.generated.json, Copyright (c) 2026 Jameson Hodge, MIT",
+  "vowels": {
+    "i": {
+      "tbX": 3.683,
+      "tbY": 7.739,
+      "jaw": 0.413,
+      "lipAp": 1.046,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": 0.514,
+      "larynx": 0.798,
+      "ttX": 6.545,
+      "ttY": 7.288,
+      "ttCurl": 0
+    },
+    "ɪ": {
+      "tbX": 3.637,
+      "tbY": 7.419,
+      "jaw": 0.575,
+      "lipAp": 1.154,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": -0.001,
+      "larynx": 0.357,
+      "ttX": 6.472,
+      "ttY": 7.032,
+      "ttCurl": 0
+    },
+    "e": {
+      "tbX": 3.6,
+      "tbY": 7.236,
+      "jaw": 0.745,
+      "lipAp": 1.315,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": 0.269,
+      "larynx": 0.506,
+      "ttX": 6.396,
+      "ttY": 6.817,
+      "ttCurl": 0
+    },
+    "ɛ": {
+      "tbX": 3.403,
+      "tbY": 6.556,
+      "jaw": 1.041,
+      "lipAp": 1.519,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": 0.048,
+      "larynx": 0.379,
+      "ttX": 6.218,
+      "ttY": 6.32,
+      "ttCurl": 0
+    },
+    "æ": {
+      "tbX": 3.373,
+      "tbY": 6.016,
+      "jaw": 1.516,
+      "lipAp": 1.875,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": -0.16,
+      "larynx": 0.328,
+      "ttX": 6.002,
+      "ttY": 5.726,
+      "ttCurl": 0.002
+    },
+    "a": {
+      "tbX": 2.292,
+      "tbY": 5.667,
+      "jaw": 1.649,
+      "lipAp": 2,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": -0.373,
+      "larynx": 0.37,
+      "ttX": 5.617,
+      "ttY": 5.487,
+      "ttCurl": 0
+    },
+    "ɑ": {
+      "tbX": 2.022,
+      "tbY": 5.692,
+      "jaw": 1.685,
+      "lipAp": 2,
+      "lipProt": 0,
+      "lipWidth": 1,
+      "root": -0.354,
+      "larynx": 0.217,
+      "ttX": 5.519,
+      "ttY": 5.466,
+      "ttCurl": 0
+    },
+    "ɒ": {
+      "tbX": 1.365,
+      "tbY": 5.824,
+      "jaw": 1.534,
+      "lipAp": 0.965,
+      "lipProt": 0.349,
+      "lipWidth": 0.483,
+      "root": -0.221,
+      "larynx": -0.047,
+      "ttX": 5.392,
+      "ttY": 5.64,
+      "ttCurl": 0
+    },
+    "ɔ": {
+      "tbX": 1.501,
+      "tbY": 6.115,
+      "jaw": 1.182,
+      "lipAp": 0.844,
+      "lipProt": 0.31,
+      "lipWidth": 0.539,
+      "root": -0.328,
+      "larynx": 0.175,
+      "ttX": 5.588,
+      "ttY": 6.043,
+      "ttCurl": 0
+    },
+    "o": {
+      "tbX": 1.519,
+      "tbY": 6.592,
+      "jaw": 0.668,
+      "lipAp": 0.405,
+      "lipProt": 0.597,
+      "lipWidth": 0.027,
+      "root": 0.227,
+      "larynx": 0.061,
+      "ttX": 5.801,
+      "ttY": 6.66,
+      "ttCurl": 0
+    },
+    "ʊ": {
+      "tbX": 2.317,
+      "tbY": 7.139,
+      "jaw": 0.516,
+      "lipAp": 0.44,
+      "lipProt": 1.228,
+      "lipWidth": 0.199,
+      "root": 0.478,
+      "larynx": 0.425,
+      "ttX": 6.098,
+      "ttY": 6.987,
+      "ttCurl": 0
+    },
+    "u": {
+      "tbX": 2.419,
+      "tbY": 7.428,
+      "jaw": 0.203,
+      "lipAp": 0.291,
+      "lipProt": 1.4,
+      "lipWidth": 0.065,
+      "root": 0.402,
+      "larynx": 0.252,
+      "ttX": 6.239,
+      "ttY": 7.369,
+      "ttCurl": 0
+    },
+    "ʌ": {
+      "tbX": 1.955,
+      "tbY": 6.23,
+      "jaw": 1.022,
+      "lipAp": 0.76,
+      "lipProt": 0,
+      "lipWidth": 0.607,
+      "root": 0.212,
+      "larynx": 0.053,
+      "ttX": 5.791,
+      "ttY": 6.227,
+      "ttCurl": 0.002
+    },
+    "ə": {
+      "tbX": 2.944,
+      "tbY": 6.685,
+      "jaw": 0.505,
+      "lipAp": 0.323,
+      "lipProt": 0.352,
+      "lipWidth": 0.533,
+      "root": 0.421,
+      "larynx": 0.149,
+      "ttX": 6.29,
+      "ttY": 6.837,
+      "ttCurl": 0
+    },
+    "ɐ": {
+      "tbX": 2.374,
+      "tbY": 6.055,
+      "jaw": 1.394,
+      "lipAp": 1.042,
+      "lipProt": 0,
+      "lipWidth": 0.722,
+      "root": 0.136,
+      "larynx": -0.013,
+      "ttX": 5.757,
+      "ttY": 5.841,
+      "ttCurl": 0.001
+    },
+    "ɝ": {
+      "tbX": 2.727,
+      "tbY": 7.285,
+      "jaw": 0.976,
+      "lipAp": 0.654,
+      "lipProt": 0.592,
+      "lipWidth": 0.347,
+      "root": -0.9,
+      "larynx": -0.921,
+      "ttX": 5.642,
+      "ttY": 8.632,
+      "ttCurl": 1
+    },
+    "y": {
+      "tbX": 3.478,
+      "tbY": 7.838,
+      "jaw": 0.202,
+      "lipAp": 0.3,
+      "lipProt": 1.397,
+      "lipWidth": 0.3,
+      "root": 0.038,
+      "larynx": 0.038,
+      "ttX": 6.557,
+      "ttY": 7.512,
+      "ttCurl": 0
+    },
+    "ø": {
+      "tbX": 3.45,
+      "tbY": 7.301,
+      "jaw": 0.625,
+      "lipAp": 0.334,
+      "lipProt": 0.599,
+      "lipWidth": 0.001,
+      "root": 0.16,
+      "larynx": 0.088,
+      "ttX": 6.397,
+      "ttY": 6.947,
+      "ttCurl": 0
+    },
+    "œ": {
+      "tbX": 3.01,
+      "tbY": 6.638,
+      "jaw": 1.036,
+      "lipAp": 0.687,
+      "lipProt": 0.629,
+      "lipWidth": 0.303,
+      "root": 0.106,
+      "larynx": 0.075,
+      "ttX": 6.103,
+      "ttY": 6.353,
+      "ttCurl": 0
+    },
+    "ɨ": {
+      "tbX": 2.941,
+      "tbY": 7.71,
+      "jaw": 0.184,
+      "lipAp": 0.2,
+      "lipProt": 0.003,
+      "lipWidth": 1,
+      "root": 0.663,
+      "larynx": 0.243,
+      "ttX": 6.4,
+      "ttY": 7.491,
+      "ttCurl": 0.003
+    },
+    "ɯ": {
+      "tbX": 2.715,
+      "tbY": 7.625,
+      "jaw": 0.176,
+      "lipAp": 0.187,
+      "lipProt": 0.348,
+      "lipWidth": 0.55,
+      "root": 0.784,
+      "larynx": 0.284,
+      "ttX": 6.337,
+      "ttY": 7.463,
+      "ttCurl": 0
+    },
+    "ɤ": {
+      "tbX": 2.259,
+      "tbY": 7.251,
+      "jaw": 0.638,
+      "lipAp": 0.467,
+      "lipProt": 0.351,
+      "lipWidth": 0.545,
+      "root": 0.64,
+      "larynx": 0.382,
+      "ttX": 6.035,
+      "ttY": 6.918,
+      "ttCurl": 0
+    }
+  },
+  "consonants": {
+    "ɸ": {
+      "lipAp": 0.032
+    },
+    "β": {
+      "lipAp": 0.04
+    },
+    "f": {
+      "lipAp": 0.016
+    },
+    "v": {
+      "lipAp": 0.031
+    },
+    "θ": {
+      "ttY": 8.225
+    },
+    "ð": {
+      "ttY": 8.19
+    },
+    "s": {
+      "ttY": 9.111
+    },
+    "z": {
+      "ttY": 9.097
+    },
+    "ʃ": {
+      "ttY": 9.512
+    },
+    "ʒ": {
+      "ttY": 9.495
+    },
+    "ʂ": {
+      "ttY": 9.73
+    },
+    "ʐ": {
+      "ttY": 9.718
+    },
+    "ç": {
+      "tbY": 7.93
+    },
+    "ʝ": {
+      "tbY": 7.917
+    },
+    "x": {
+      "tbY": 7.365
+    },
+    "ɣ": {
+      "tbY": 7.352
+    },
+    "χ": {
+      "tbY": 7.061
+    },
+    "ʁ": {
+      "tbY": 7.049
+    },
+    "ħ": {
+      "tbX": 1.247
+    },
+    "ʕ": {
+      "tbX": 1.284
+    }
+  }
+}

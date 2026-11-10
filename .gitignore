@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.pytest_cache/
+data/
+outputs/
+artifacts/
+*.wav
+*.mp3
+*.mp4
+*.npz

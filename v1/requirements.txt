@@ -1,0 +1,16 @@
+torch==2.11.0
+numpy
+scipy
+soundfile
+librosa
+mido
+matplotlib
+requests
+beautifulsoup4
+transformers==4.57.6
+speechbrain==1.1.2
+hyperpyyaml
+ruamel.yaml==0.18.16
+sentencepiece
+huggingface_hub==0.36.2
+pyopenjtalk

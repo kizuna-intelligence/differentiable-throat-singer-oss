@@ -1,0 +1,13 @@
+{
+  "name": "chimera-multi-visualizer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "playwright-core": "^1.56.1",
+    "vite": "^6.4.1"
+  }
+}

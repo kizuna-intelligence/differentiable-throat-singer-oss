@@ -1,0 +1,6520 @@
+{
+  "title": "Ievan polkka（伝承曲）",
+  "melody": "traditional (Finnish folk polka, a.k.a. Savitaipaleen polkka); see RIGHTS.md",
+  "lyrics": "original Japanese lyrics written for this project (not a translation)",
+  "credit": "声：「波音リツ」歌声データベース（カノン）",
+  "bpm": 150,
+  "time_signature": "2/4",
+  "key": "A minor",
+  "length_beats": 60.0,
+  "seconds": 24.0,
+  "range": {
+    "low": 64,
+    "high": 76
+  },
+  "units": "start/dur in quarter-note beats from song start; midi = MIDI note number",
+  "source_score": "notes.json; A1/A2/A1, all pitches and chord roots transposed +3 semitones",
+  "sections": [
+    {
+      "name": "intro",
+      "from_beat": 0.0,
+      "bars": 4
+    },
+    {
+      "name": "A1",
+      "from_beat": 8.0,
+      "bars": 8,
+      "lyric": "広場に 朝から 小さな 笛の調べ / 手を取り ダンス / 楽しいポルカ"
+    },
+    {
+      "name": "A2",
+      "from_beat": 24.0,
+      "bars": 8,
+      "lyric": "スカート ひらひら リボンも まるでちょうちょ / ほっぺに えくぼ / 楽しいポルカ"
+    },
+    {
+      "name": "A3",
+      "from_beat": 40.0,
+      "bars": 8,
+      "lyric": "広場に 朝から 小さな 笛の調べ / 手を取り ダンス / 楽しいポルカ"
+    },
+    {
+      "name": "ending",
+      "from_beat": 56.0,
+      "bars": 2
+    }
+  ],
+  "chords": [
+    {
+      "beat": 0.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 1.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 2.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 3.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 4.0,
+      "chord": "Dm"
+    },
+    {
+      "beat": 5.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 6.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 7.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 8.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 9.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 10.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 11.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 12.0,
+      "chord": "G"
+    },
+    {
+      "beat": 13.0,
+      "chord": "G"
+    },
+    {
+      "beat": 14.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 15.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 16.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 17.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 18.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 19.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 20.0,
+      "chord": "Dm"
+    },
+    {
+      "beat": 21.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 22.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 23.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 24.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 25.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 26.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 27.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 28.0,
+      "chord": "G"
+    },
+    {
+      "beat": 29.0,
+      "chord": "G"
+    },
+    {
+      "beat": 30.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 31.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 32.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 33.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 34.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 35.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 36.0,
+      "chord": "Dm"
+    },
+    {
+      "beat": 37.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 38.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 39.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 40.0,
+      "chord": "C"
+    },
+    {
+      "beat": 41.0,
+      "chord": "C"
+    },
+    {
+      "beat": 42.0,
+      "chord": "G"
+    },
+    {
+      "beat": 43.0,
+      "chord": "G"
+    },
+    {
+      "beat": 44.0,
+      "chord": "Dm"
+    },
+    {
+      "beat": 45.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 46.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 47.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 48.0,
+      "chord": "C"
+    },
+    {
+      "beat": 49.0,
+      "chord": "C"
+    },
+    {
+      "beat": 50.0,
+      "chord": "G"
+    },
+    {
+      "beat": 51.0,
+      "chord": "G"
+    },
+    {
+      "beat": 52.0,
+      "chord": "Dm"
+    },
+    {
+      "beat": 53.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 54.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 55.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 56.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 57.0,
+      "chord": "E7"
+    },
+    {
+      "beat": 58.0,
+      "chord": "Am"
+    },
+    {
+      "beat": 59.0,
+      "chord": "Am"
+    }
+  ],
+  "intro_lead": [
+    {
+      "start": 3.0,
+      "dur": 0.5,
+      "midi": 71
+    },
+    {
+      "start": 3.5,
+      "dur": 0.5,
+      "midi": 72
+    },
+    {
+      "start": 4.0,
+      "dur": 0.5,
+      "midi": 74
+    },
+    {
+      "start": 4.5,
+      "dur": 0.25,
+      "midi": 76
+    },
+    {
+      "start": 4.75,
+      "dur": 0.25,
+      "midi": 74
+    },
+    {
+      "start": 5.0,
+      "dur": 0.5,
+      "midi": 72
+    },
+    {
+      "start": 5.5,
+      "dur": 0.5,
+      "midi": 71
+    },
+    {
+      "start": 6.0,
+      "dur": 1.0,
+      "midi": 69
+    }
+  ],
+  "notes": [
+    {
+      "start": 8.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "ひ",
+      "section": "A1",
+      "bar": 1
+    },
+    {
+      "start": 8.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "ろ",
+      "section": "A1",
+      "bar": 1
+    },
+    {
+      "start": 9.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ば",
+      "section": "A1",
+      "bar": 1
+    },
+    {
+      "start": 9.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "に",
+      "section": "A1",
+      "bar": 1
+    },
+    {
+      "start": 10.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "あ",
+      "section": "A1",
+      "bar": 2
+    },
+    {
+      "start": 10.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "さ",
+      "section": "A1",
+      "bar": 2
+    },
+    {
+      "start": 11.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A1",
+      "bar": 2
+    },
+    {
+      "start": 11.5,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "ら",
+      "section": "A1",
+      "bar": 2
+    },
+    {
+      "start": 12.0,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "ち",
+      "section": "A1",
+      "bar": 3
+    },
+    {
+      "start": 12.5,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "い",
+      "section": "A1",
+      "bar": 3
+    },
+    {
+      "start": 13.0,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "さ",
+      "section": "A1",
+      "bar": 3
+    },
+    {
+      "start": 13.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "な",
+      "section": "A1",
+      "bar": 3
+    },
+    {
+      "start": 14.0,
+      "dur": 0.25,
+      "midi": 72,
+      "lyric": "ふ",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 14.25,
+      "dur": 0.25,
+      "midi": 71,
+      "lyric": "え",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 14.5,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "の",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 14.75,
+      "dur": 0.25,
+      "midi": 67,
+      "lyric": "し",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 15.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ら",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 15.5,
+      "dur": 0.5,
+      "midi": 64,
+      "lyric": "べ",
+      "section": "A1",
+      "bar": 4
+    },
+    {
+      "start": 16.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "て",
+      "section": "A1",
+      "bar": 5
+    },
+    {
+      "start": 16.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "を",
+      "section": "A1",
+      "bar": 5
+    },
+    {
+      "start": 17.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "と",
+      "section": "A1",
+      "bar": 5
+    },
+    {
+      "start": 17.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "り",
+      "section": "A1",
+      "bar": 5
+    },
+    {
+      "start": 18.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "だ",
+      "section": "A1",
+      "bar": 6
+    },
+    {
+      "start": 18.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ん",
+      "section": "A1",
+      "bar": 6
+    },
+    {
+      "start": 19.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "す",
+      "section": "A1",
+      "bar": 6
+    },
+    {
+      "start": 20.0,
+      "dur": 0.5,
+      "midi": 74,
+      "lyric": "た",
+      "section": "A1",
+      "bar": 7
+    },
+    {
+      "start": 20.5,
+      "dur": 0.25,
+      "midi": 76,
+      "lyric": "の",
+      "section": "A1",
+      "bar": 7
+    },
+    {
+      "start": 20.75,
+      "dur": 0.25,
+      "midi": 74,
+      "lyric": "し",
+      "section": "A1",
+      "bar": 7
+    },
+    {
+      "start": 21.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "い",
+      "section": "A1",
+      "bar": 7
+    },
+    {
+      "start": 21.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "ぽ",
+      "section": "A1",
+      "bar": 7
+    },
+    {
+      "start": 22.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "る",
+      "section": "A1",
+      "bar": 8
+    },
+    {
+      "start": 23.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A1",
+      "bar": 8
+    },
+    {
+      "start": 24.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "す",
+      "section": "A2",
+      "bar": 1
+    },
+    {
+      "start": 24.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A2",
+      "bar": 1
+    },
+    {
+      "start": 25.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ー",
+      "section": "A2",
+      "bar": 1
+    },
+    {
+      "start": 25.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "と",
+      "section": "A2",
+      "bar": 1
+    },
+    {
+      "start": 26.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "ひ",
+      "section": "A2",
+      "bar": 2
+    },
+    {
+      "start": 26.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ら",
+      "section": "A2",
+      "bar": 2
+    },
+    {
+      "start": 27.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ひ",
+      "section": "A2",
+      "bar": 2
+    },
+    {
+      "start": 27.5,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "ら",
+      "section": "A2",
+      "bar": 2
+    },
+    {
+      "start": 28.0,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "り",
+      "section": "A2",
+      "bar": 3
+    },
+    {
+      "start": 28.5,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "ぼ",
+      "section": "A2",
+      "bar": 3
+    },
+    {
+      "start": 29.0,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "ん",
+      "section": "A2",
+      "bar": 3
+    },
+    {
+      "start": 29.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "も",
+      "section": "A2",
+      "bar": 3
+    },
+    {
+      "start": 30.0,
+      "dur": 0.25,
+      "midi": 72,
+      "lyric": "ま",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 30.25,
+      "dur": 0.25,
+      "midi": 71,
+      "lyric": "る",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 30.5,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "で",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 30.75,
+      "dur": 0.25,
+      "midi": 67,
+      "lyric": "ちょ",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 31.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "う",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 31.5,
+      "dur": 0.5,
+      "midi": 64,
+      "lyric": "ちょ",
+      "section": "A2",
+      "bar": 4
+    },
+    {
+      "start": 32.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "ほ",
+      "section": "A2",
+      "bar": 5
+    },
+    {
+      "start": 32.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "っ",
+      "section": "A2",
+      "bar": 5
+    },
+    {
+      "start": 33.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ぺ",
+      "section": "A2",
+      "bar": 5
+    },
+    {
+      "start": 33.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "に",
+      "section": "A2",
+      "bar": 5
+    },
+    {
+      "start": 34.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "え",
+      "section": "A2",
+      "bar": 6
+    },
+    {
+      "start": 34.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "く",
+      "section": "A2",
+      "bar": 6
+    },
+    {
+      "start": 35.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "ぼ",
+      "section": "A2",
+      "bar": 6
+    },
+    {
+      "start": 36.0,
+      "dur": 0.5,
+      "midi": 74,
+      "lyric": "た",
+      "section": "A2",
+      "bar": 7
+    },
+    {
+      "start": 36.5,
+      "dur": 0.25,
+      "midi": 76,
+      "lyric": "の",
+      "section": "A2",
+      "bar": 7
+    },
+    {
+      "start": 36.75,
+      "dur": 0.25,
+      "midi": 74,
+      "lyric": "し",
+      "section": "A2",
+      "bar": 7
+    },
+    {
+      "start": 37.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "い",
+      "section": "A2",
+      "bar": 7
+    },
+    {
+      "start": 37.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "ぽ",
+      "section": "A2",
+      "bar": 7
+    },
+    {
+      "start": 38.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "る",
+      "section": "A2",
+      "bar": 8
+    },
+    {
+      "start": 39.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A2",
+      "bar": 8
+    },
+    {
+      "start": 40.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "ひ",
+      "section": "A3",
+      "bar": 1
+    },
+    {
+      "start": 40.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "ろ",
+      "section": "A3",
+      "bar": 1
+    },
+    {
+      "start": 41.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ば",
+      "section": "A3",
+      "bar": 1
+    },
+    {
+      "start": 41.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "に",
+      "section": "A3",
+      "bar": 1
+    },
+    {
+      "start": 42.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "あ",
+      "section": "A3",
+      "bar": 2
+    },
+    {
+      "start": 42.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "さ",
+      "section": "A3",
+      "bar": 2
+    },
+    {
+      "start": 43.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A3",
+      "bar": 2
+    },
+    {
+      "start": 43.5,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "ら",
+      "section": "A3",
+      "bar": 2
+    },
+    {
+      "start": 44.0,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "ち",
+      "section": "A3",
+      "bar": 3
+    },
+    {
+      "start": 44.5,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "い",
+      "section": "A3",
+      "bar": 3
+    },
+    {
+      "start": 45.0,
+      "dur": 0.5,
+      "midi": 67,
+      "lyric": "さ",
+      "section": "A3",
+      "bar": 3
+    },
+    {
+      "start": 45.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "な",
+      "section": "A3",
+      "bar": 3
+    },
+    {
+      "start": 46.0,
+      "dur": 0.25,
+      "midi": 72,
+      "lyric": "ふ",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 46.25,
+      "dur": 0.25,
+      "midi": 71,
+      "lyric": "え",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 46.5,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "の",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 46.75,
+      "dur": 0.25,
+      "midi": 67,
+      "lyric": "し",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 47.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ら",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 47.5,
+      "dur": 0.5,
+      "midi": 64,
+      "lyric": "べ",
+      "section": "A3",
+      "bar": 4
+    },
+    {
+      "start": 48.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "て",
+      "section": "A3",
+      "bar": 5
+    },
+    {
+      "start": 48.75,
+      "dur": 0.25,
+      "midi": 69,
+      "lyric": "を",
+      "section": "A3",
+      "bar": 5
+    },
+    {
+      "start": 49.0,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "と",
+      "section": "A3",
+      "bar": 5
+    },
+    {
+      "start": 49.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "り",
+      "section": "A3",
+      "bar": 5
+    },
+    {
+      "start": 50.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "だ",
+      "section": "A3",
+      "bar": 6
+    },
+    {
+      "start": 50.5,
+      "dur": 0.5,
+      "midi": 69,
+      "lyric": "ん",
+      "section": "A3",
+      "bar": 6
+    },
+    {
+      "start": 51.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "す",
+      "section": "A3",
+      "bar": 6
+    },
+    {
+      "start": 52.0,
+      "dur": 0.5,
+      "midi": 74,
+      "lyric": "た",
+      "section": "A3",
+      "bar": 7
+    },
+    {
+      "start": 52.5,
+      "dur": 0.25,
+      "midi": 76,
+      "lyric": "の",
+      "section": "A3",
+      "bar": 7
+    },
+    {
+      "start": 52.75,
+      "dur": 0.25,
+      "midi": 74,
+      "lyric": "し",
+      "section": "A3",
+      "bar": 7
+    },
+    {
+      "start": 53.0,
+      "dur": 0.5,
+      "midi": 72,
+      "lyric": "い",
+      "section": "A3",
+      "bar": 7
+    },
+    {
+      "start": 53.5,
+      "dur": 0.5,
+      "midi": 71,
+      "lyric": "ぽ",
+      "section": "A3",
+      "bar": 7
+    },
+    {
+      "start": 54.0,
+      "dur": 1.0,
+      "midi": 69,
+      "lyric": "る",
+      "section": "A3",
+      "bar": 8
+    },
+    {
+      "start": 55.0,
+      "dur": 0.75,
+      "midi": 69,
+      "lyric": "か",
+      "section": "A3",
+      "bar": 8
+    }
+  ],
+  "version": 2,
+  "parts": [
+    {
+      "id": "lead",
+      "name": "リード",
+      "throat": 1,
+      "body_scale": 1.0,
+      "pan": 0.0,
+      "kind": "lead",
+      "role": "lead",
+      "gain_db": 0,
+      "notes": [
+        {
+          "start": 8.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "ひ",
+          "section": "A1",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 8.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ろ",
+          "section": "A1",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 9.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ば",
+          "section": "A1",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 9.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "に",
+          "section": "A1",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 10.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "あ",
+          "section": "A1",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 10.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "さ",
+          "section": "A1",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 11.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A1",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 11.5,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ら",
+          "section": "A1",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 12.0,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ち",
+          "section": "A1",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 12.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "い",
+          "section": "A1",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 13.0,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "さ",
+          "section": "A1",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 13.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "な",
+          "section": "A1",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 14.0,
+          "dur": 0.25,
+          "midi": 72,
+          "lyric": "ふ",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 14.25,
+          "dur": 0.25,
+          "midi": 71,
+          "lyric": "え",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 14.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "の",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 14.75,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "し",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 15.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ら",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 15.5,
+          "dur": 0.5,
+          "midi": 64,
+          "lyric": "べ",
+          "section": "A1",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 16.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "て",
+          "section": "A1",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 16.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "を",
+          "section": "A1",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 17.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "と",
+          "section": "A1",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 17.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "り",
+          "section": "A1",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 18.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "だ",
+          "section": "A1",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 18.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ん",
+          "section": "A1",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 19.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "す",
+          "section": "A1",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 20.0,
+          "dur": 0.5,
+          "midi": 74,
+          "lyric": "た",
+          "section": "A1",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 20.5,
+          "dur": 0.25,
+          "midi": 76,
+          "lyric": "の",
+          "section": "A1",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 20.75,
+          "dur": 0.25,
+          "midi": 74,
+          "lyric": "し",
+          "section": "A1",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 21.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "い",
+          "section": "A1",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 21.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ぽ",
+          "section": "A1",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 22.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "る",
+          "section": "A1",
+          "bar": 8,
+          "pitched": true
+        },
+        {
+          "start": 23.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A1",
+          "bar": 8,
+          "pitched": true
+        },
+        {
+          "start": 24.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "す",
+          "section": "A2",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 24.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A2",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 25.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ー",
+          "section": "A2",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 25.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "と",
+          "section": "A2",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 26.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ひ",
+          "section": "A2",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 26.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ら",
+          "section": "A2",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 27.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ひ",
+          "section": "A2",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 27.5,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ら",
+          "section": "A2",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 28.0,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "り",
+          "section": "A2",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 28.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "ぼ",
+          "section": "A2",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 29.0,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "ん",
+          "section": "A2",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 29.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "も",
+          "section": "A2",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 30.0,
+          "dur": 0.25,
+          "midi": 72,
+          "lyric": "ま",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 30.25,
+          "dur": 0.25,
+          "midi": 71,
+          "lyric": "る",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 30.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "で",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 30.75,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ちょ",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 31.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "う",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 31.5,
+          "dur": 0.5,
+          "midi": 64,
+          "lyric": "ちょ",
+          "section": "A2",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 32.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "ほ",
+          "section": "A2",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 32.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "っ",
+          "section": "A2",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 33.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ぺ",
+          "section": "A2",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 33.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "に",
+          "section": "A2",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 34.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "え",
+          "section": "A2",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 34.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "く",
+          "section": "A2",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 35.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "ぼ",
+          "section": "A2",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 36.0,
+          "dur": 0.5,
+          "midi": 74,
+          "lyric": "た",
+          "section": "A2",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 36.5,
+          "dur": 0.25,
+          "midi": 76,
+          "lyric": "の",
+          "section": "A2",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 36.75,
+          "dur": 0.25,
+          "midi": 74,
+          "lyric": "し",
+          "section": "A2",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 37.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "い",
+          "section": "A2",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 37.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ぽ",
+          "section": "A2",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 38.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "る",
+          "section": "A2",
+          "bar": 8,
+          "pitched": true
+        },
+        {
+          "start": 39.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A2",
+          "bar": 8,
+          "pitched": true
+        },
+        {
+          "start": 40.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "ひ",
+          "section": "A3",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 40.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ろ",
+          "section": "A3",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 41.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ば",
+          "section": "A3",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 41.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "に",
+          "section": "A3",
+          "bar": 1,
+          "pitched": true
+        },
+        {
+          "start": 42.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "あ",
+          "section": "A3",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 42.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "さ",
+          "section": "A3",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 43.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A3",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 43.5,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ら",
+          "section": "A3",
+          "bar": 2,
+          "pitched": true
+        },
+        {
+          "start": 44.0,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ち",
+          "section": "A3",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 44.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "い",
+          "section": "A3",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 45.0,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "さ",
+          "section": "A3",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 45.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "な",
+          "section": "A3",
+          "bar": 3,
+          "pitched": true
+        },
+        {
+          "start": 46.0,
+          "dur": 0.25,
+          "midi": 72,
+          "lyric": "ふ",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 46.25,
+          "dur": 0.25,
+          "midi": 71,
+          "lyric": "え",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 46.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "の",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 46.75,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "し",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 47.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ら",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 47.5,
+          "dur": 0.5,
+          "midi": 64,
+          "lyric": "べ",
+          "section": "A3",
+          "bar": 4,
+          "pitched": true
+        },
+        {
+          "start": 48.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "て",
+          "section": "A3",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 48.75,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "を",
+          "section": "A3",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 49.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "と",
+          "section": "A3",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 49.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "り",
+          "section": "A3",
+          "bar": 5,
+          "pitched": true
+        },
+        {
+          "start": 50.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "だ",
+          "section": "A3",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 50.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ん",
+          "section": "A3",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 51.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "す",
+          "section": "A3",
+          "bar": 6,
+          "pitched": true
+        },
+        {
+          "start": 52.0,
+          "dur": 0.5,
+          "midi": 74,
+          "lyric": "た",
+          "section": "A3",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 52.5,
+          "dur": 0.25,
+          "midi": 76,
+          "lyric": "の",
+          "section": "A3",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 52.75,
+          "dur": 0.25,
+          "midi": 74,
+          "lyric": "し",
+          "section": "A3",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 53.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "い",
+          "section": "A3",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 53.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ぽ",
+          "section": "A3",
+          "bar": 7,
+          "pitched": true
+        },
+        {
+          "start": 54.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "る",
+          "section": "A3",
+          "bar": 8,
+          "pitched": true
+        },
+        {
+          "start": 55.0,
+          "dur": 0.75,
+          "midi": 69,
+          "lyric": "か",
+          "section": "A3",
+          "bar": 8,
+          "pitched": true
+        }
+      ]
+    },
+    {
+      "id": "bass",
+      "name": "ベース",
+      "throat": 2,
+      "body_scale": 1.18,
+      "pan": 0.0,
+      "kind": "bass",
+      "role": "bass",
+      "gain_db": -8,
+      "notes": [
+        {
+          "start": 0.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 0.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 0.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 8.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 8.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 8.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 24.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 24.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 24.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 40.0,
+          "dur": 0.15,
+          "midi": 48,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 40.15,
+          "dur": 0.12,
+          "midi": 48,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 40.27,
+          "dur": 0.08,
+          "midi": 48,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.0,
+          "dur": 0.15,
+          "midi": 48,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.15,
+          "dur": 0.12,
+          "midi": 48,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.27,
+          "dur": 0.08,
+          "midi": 48,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.0,
+          "dur": 0.15,
+          "midi": 43,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.15,
+          "dur": 0.12,
+          "midi": 43,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.27,
+          "dur": 0.08,
+          "midi": 43,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.0,
+          "dur": 0.15,
+          "midi": 50,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.15,
+          "dur": 0.12,
+          "midi": 50,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.27,
+          "dur": 0.08,
+          "midi": 50,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.0,
+          "dur": 0.15,
+          "midi": 47,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.15,
+          "dur": 0.12,
+          "midi": 47,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.27,
+          "dur": 0.08,
+          "midi": 47,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.0,
+          "dur": 0.15,
+          "midi": 45,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.15,
+          "dur": 0.12,
+          "midi": 45,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.27,
+          "dur": 0.08,
+          "midi": 45,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.0,
+          "dur": 0.15,
+          "midi": 52,
+          "lyric": "ど",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.15,
+          "dur": 0.12,
+          "midi": 52,
+          "lyric": "う",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.27,
+          "dur": 0.08,
+          "midi": 52,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 56.0,
+          "dur": 4.0,
+          "midi": 45,
+          "lyric": "あ",
+          "section": "ending",
+          "pitched": true
+        }
+      ]
+    },
+    {
+      "id": "chord1",
+      "name": "和音1",
+      "throat": 3,
+      "body_scale": 0.95,
+      "pan": -0.4,
+      "kind": "chord1",
+      "role": "chord",
+      "gain_db": -6,
+      "notes": [
+        {
+          "start": 0.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.0,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.5,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.0,
+          "dur": 0.5,
+          "midi": 74,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.5,
+          "dur": 0.25,
+          "midi": 76,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.75,
+          "dur": 0.25,
+          "midi": 74,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.0,
+          "dur": 0.5,
+          "midi": 72,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.5,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.0,
+          "dur": 1.0,
+          "midi": 69,
+          "lyric": "ら",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 8.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.5,
+          "dur": 0.25,
+          "midi": 59,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.5,
+          "dur": 0.25,
+          "midi": 59,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 24.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.5,
+          "dur": 0.25,
+          "midi": 59,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.5,
+          "dur": 0.25,
+          "midi": 59,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.5,
+          "dur": 0.25,
+          "midi": 60,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 40.0,
+          "dur": 0.75,
+          "midi": 65,
+          "lyric": "ひ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 40.75,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ろ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.0,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "ば",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "に",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "あ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.5,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "さ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.0,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "か",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.5,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "ら",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.0,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.5,
+          "dur": 0.5,
+          "midi": 64,
+          "lyric": "い",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.0,
+          "dur": 0.5,
+          "midi": 64,
+          "lyric": "さ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "な",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.0,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ふ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.25,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "え",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "の",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.75,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "し",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.0,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "ら",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.5,
+          "dur": 0.5,
+          "midi": 60,
+          "lyric": "べ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.0,
+          "dur": 0.75,
+          "midi": 65,
+          "lyric": "て",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.75,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "を",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.0,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "と",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "り",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "だ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.5,
+          "dur": 0.5,
+          "midi": 65,
+          "lyric": "ん",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.0,
+          "dur": 1.0,
+          "midi": 65,
+          "lyric": "す",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.0,
+          "dur": 0.5,
+          "midi": 71,
+          "lyric": "た",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.5,
+          "dur": 0.25,
+          "midi": 72,
+          "lyric": "の",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.75,
+          "dur": 0.25,
+          "midi": 71,
+          "lyric": "し",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.0,
+          "dur": 0.5,
+          "midi": 69,
+          "lyric": "い",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.5,
+          "dur": 0.5,
+          "midi": 67,
+          "lyric": "ぽ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.0,
+          "dur": 1.0,
+          "midi": 65,
+          "lyric": "る",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.0,
+          "dur": 0.75,
+          "midi": 65,
+          "lyric": "か",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 56.0,
+          "dur": 4.0,
+          "midi": 60,
+          "lyric": "あ",
+          "section": "ending",
+          "pitched": true
+        }
+      ]
+    },
+    {
+      "id": "chord2",
+      "name": "和音2",
+      "throat": 4,
+      "body_scale": 1.0,
+      "pan": 0.0,
+      "kind": "chord2",
+      "role": "chord",
+      "gain_db": -6,
+      "notes": [
+        {
+          "start": 0.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 8.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 24.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 40.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.5,
+          "dur": 0.25,
+          "midi": 62,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.5,
+          "dur": 0.25,
+          "midi": 65,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.5,
+          "dur": 0.25,
+          "midi": 64,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 56.0,
+          "dur": 4.0,
+          "midi": 64,
+          "lyric": "あ",
+          "section": "ending",
+          "pitched": true
+        }
+      ]
+    },
+    {
+      "id": "chord3",
+      "name": "和音3",
+      "throat": 5,
+      "body_scale": 1.05,
+      "pan": 0.4,
+      "kind": "chord3",
+      "role": "chord",
+      "gain_db": -6,
+      "notes": [
+        {
+          "start": 0.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 1.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 2.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 3.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 4.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 5.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 6.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 7.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "intro",
+          "pitched": true
+        },
+        {
+          "start": 8.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 9.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 10.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 11.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 12.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 13.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 14.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 15.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 16.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 17.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 18.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 19.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 20.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 21.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 22.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 23.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A1",
+          "pitched": true
+        },
+        {
+          "start": 24.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 25.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 26.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 27.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 28.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 29.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 30.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 31.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 32.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 33.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 34.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 35.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 36.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 37.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 38.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 39.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A2",
+          "pitched": true
+        },
+        {
+          "start": 40.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 41.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 42.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 43.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 44.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 45.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 46.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 47.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 48.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 49.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 50.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 51.5,
+          "dur": 0.25,
+          "midi": 67,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 52.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 53.5,
+          "dur": 0.25,
+          "midi": 68,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 54.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 55.5,
+          "dur": 0.25,
+          "midi": 69,
+          "lyric": "ぱ",
+          "section": "A3",
+          "pitched": true
+        },
+        {
+          "start": 56.0,
+          "dur": 4.0,
+          "midi": 69,
+          "lyric": "あ",
+          "section": "ending",
+          "pitched": true
+        }
+      ]
+    },
+    {
+      "id": "mouth_perc",
+      "name": "口打楽器",
+      "throat": 6,
+      "body_scale": 1.0,
+      "pan": 0.15,
+      "kind": "percussion",
+      "role": "percussion",
+      "gain_db": -10,
+      "notes": [
+        {
+          "start": 0.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 1.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 1.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 1.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 1.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 2.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 2.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 3.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 3.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 3.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 3.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 4.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 4.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 5.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 5.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 5.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 5.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 6.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 6.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 7.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 7.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 7.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 7.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "intro",
+          "pitched": false
+        },
+        {
+          "start": 8.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 8.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 9.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 9.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 9.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 9.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 10.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 10.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 11.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 11.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 11.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 11.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 12.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 12.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 13.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 13.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 13.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 13.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 14.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 14.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 15.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 15.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 15.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 15.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 16.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 16.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 17.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 17.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 17.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 17.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 18.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 18.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 19.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 19.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 19.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 19.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 20.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 20.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 21.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 21.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 21.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 21.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 22.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 22.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 23.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 23.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 23.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 23.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A1",
+          "pitched": false
+        },
+        {
+          "start": 24.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 24.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 25.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 25.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 25.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 25.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 26.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 26.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 27.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 27.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 27.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 27.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 28.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 28.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 29.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 29.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 29.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 29.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 30.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 30.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 31.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 31.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 31.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 31.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 32.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 32.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 33.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 33.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 33.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 33.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 34.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 34.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 35.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 35.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 35.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 35.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 36.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 36.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 37.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 37.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 37.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 37.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 38.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 38.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 39.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 39.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 39.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 39.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A2",
+          "pitched": false
+        },
+        {
+          "start": 40.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 40.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 40.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 40.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 41.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 42.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 42.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 42.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 42.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 43.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 44.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 44.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 44.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 44.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 45.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 46.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 46.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 46.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 46.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 47.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 48.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 48.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 48.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 48.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 49.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 50.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 50.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 50.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 50.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 51.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 52.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 52.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 52.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 52.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 53.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 54.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 54.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 54.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 54.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.0,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.0,
+          "dur": 0.18,
+          "midi": 60,
+          "lyric": "ち",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.18,
+          "dur": 0.1,
+          "midi": 60,
+          "lyric": "っ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.25,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.5,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        },
+        {
+          "start": 55.75,
+          "dur": 0.15,
+          "midi": 60,
+          "lyric": "つ",
+          "section": "A3",
+          "pitched": false
+        }
+      ]
+    }
+  ],
+  "output_name": "喉モデル_イエヴァンポルッカ_全部声_v2",
+  "mix": {
+    "lufs": -14,
+    "dbtp": -1,
+    "reverb_seconds": 0.8,
+    "reverb_wet_db": -18,
+    "chord_reverb_wet_db": -15
+  }
+}

@@ -1,0 +1,2 @@
+7c3050a331e2d48d190d64c098dfbbd8e1749c51fc12d6774ad4e083b84f2cce  throat_ritsu_v1.pt
+47ff4e73c82a1fff4f3829f093af05488b650fee9b350369eb501369b3efb49b  throat_ritsu_v1_learned_glottis.pt
