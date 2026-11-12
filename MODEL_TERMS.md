@@ -34,3 +34,15 @@ Article 9(1) allows terms to change without advance notice; Article 9(2) require
 If you train a model on another corpus with the included code, the trained weights are governed by that corpus's terms, not by MIT. Check whether the corpus permits model training and model release, required credits, and prohibited uses before publishing. Never initialize another voice from the Namine Ritsu weights.
 
 同梱のコードで他のコーパスから学習したモデルの重みは、MIT ではなく、そのコーパスの規約に従います。学習とモデルの公開が許されているか、クレジットの表記、禁止されている用途を確認してから公開してください。波音リツの重みを他の声の初期値にしないでください。
+
+## Zero-shot v1 weights
+
+The zero-shot v1 weights did not use the Namine Ritsu database or weights, and were not initialized from the Namine Ritsu weights. They are not subject to the Namine Ritsu database terms.
+
+These weights are provided only for research, evaluation, and personal experimentation. They are not MIT-licensed and are provided without warranty. Do not use them to imitate a real person's voice without that person's consent, for impersonation or fraud, or present generated audio as that person's own voice.
+
+## ゼロショット v1 の重み
+
+ゼロショット v1 の重みは、波音リツのデータベースと重みを使っておらず、波音リツの重みから初期化もしていません。そのため、波音リツのデータベース規約の対象ではありません。
+
+この重みは研究・評価・個人の実験のために提供します。MIT ライセンスではなく、無保証です。本人の同意なく実在の人の声を真似る用途、なりすまし、詐欺に使わないでください。生成音声を本人の声と偽らないでください。

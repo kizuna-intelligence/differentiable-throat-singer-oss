@@ -5,6 +5,7 @@ A singing synthesizer built around differentiable physical models of the vocal t
 | Edition | Model | Contents | Guide |
 |---|---|---|---|
 | v1 | Frequency-domain 44-section tract, LF/learned glottis, nasal branch | Synthesis, PINN/FEM code, weights, scripts and tests | [v1 guide](v1/README.md) |
+| v1 zero-shot | Reference-conditioned 44-section throat model | Singing synthesis, optional body fitting, controls export and JSONL training | [v1 guide](v1/README.md#zero-shot-synthesis) |
 | v2 | CHIMERA-derived branching 96 kHz FDTD tract | Synthesis and weights, singing/speech training, songkit, multi-throat visualization | [v2 guide](v2/README.md) |
 
 Both editions use the Python import name `diffart`. Install and run them from separate directories and Python environments.
@@ -23,7 +24,7 @@ pip install -r requirements.txt
 OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 MKL_NUM_THREADS=2 python -m unittest discover -s tests -v
 ```
 
-The current suite result is **16 passed, 1 skipped**. The skipped corpus-split integration test requires a separately obtained manifest. The remaining offline tests use the included model and authored phoneme inputs.
+The current suite result is **19 passed, 1 skipped**. The skipped corpus-split integration test requires a separately obtained manifest. The remaining offline tests use the included model and authored phoneme inputs.
 
 ### v2
 

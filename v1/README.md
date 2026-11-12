@@ -24,6 +24,7 @@ A singing synthesizer built from a differentiable physical throat model: a glott
 |---|---|
 | `models/throat_ritsu_v1.pt` | 基本のモデル（`diffart.physics.Synthesizer`）。歌声データベースの歌 約 1 時間から推定。推定した声道の長さ 15.4 cm |
 | `models/throat_ritsu_v1_learned_glottis.pt` | 声門の音源を学習できる形にした版（`diffart.improved.ImprovedSynthesizer(b1=False, b2=True)`） |
+| `models/zeroshot_v1.pt` | OpenVoice v2 の参照埋め込みを使うゼロショットモデル（重みの条件は [MODEL_TERMS](../MODEL_TERMS.md#zero-shot-v1-weights)） |
 | `models/vocab.json` | 音素の一覧 |
 
 ```python
@@ -55,6 +56,62 @@ OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 MKL_NUM_THREADS=2 python -m unittest di
 ```
 
 The corpus split integration test skips when the separately obtained private corpus manifest is absent. Checkpoint regression tests use the bundled v1 model and authored phoneme inputs. Optional data preparation/evaluation requires separately obtained inputs: `RITSU_DB`, `RITSU_EXCLUSION_MANIFEST`, `RMVPE_ROOT`, `RMVPE_WEIGHTS`, `WAVLM_DIR`, `HEART_TRANSCRIPTOR_DIR`, `MORA_TABLE`, `COMPARISON_SCORE`, `COMPARISON_ROOT`. No evaluation models or dictionaries are bundled. PINN code remains in `diffart/pinn/`; larger data-dependent PINN experiments require their separately prepared inputs and are not the fast offline test suite.
+
+## Zero-shot synthesis
+
+### 日本語
+
+参照音声から OpenVoice v2 の tone-colour 埋め込みを取り、声道の体格を推定して音素・長さ・F0 から歌声を合成します。参照音声は 10 秒程度が目安です。本人の声の特徴を完全に再現するものではありません。参照音声の音素・F0 に合ったスコアを渡すと、`--fit-steps N` で体の値を N 回合わせ込めます。参照音声ファイルは同梱しません。
+
+OpenVoice のコードを取得し、公式の [OpenVoice v2 checkpoint archive](https://myshell-public-repo-host.s3.amazonaws.com/openvoice/checkpoints_v2_0417.zip) を OpenVoice のルートで展開してください。tone-colour converter のチェックポイントは `checkpoints_v2/converter/` に置きます。重みはこのリポジトリに含まれません。`OPENVOICE_ROOT` に OpenVoice のルートを設定するか、各コマンドに `--openvoice-root` を渡してください。
+
+```bash
+# Run from the repository root.
+git clone https://github.com/myshell-ai/OpenVoice.git
+cd OpenVoice
+curl -L https://myshell-public-repo-host.s3.amazonaws.com/openvoice/checkpoints_v2_0417.zip -o checkpoints_v2.zip
+unzip checkpoints_v2.zip
+cd ../v1
+export OPENVOICE_ROOT=../OpenVoice
+python scripts/zeroshot_infer.py \
+  --checkpoint models/zeroshot_v1.pt \
+  --reference reference.wav \
+  --score examples/zeroshot/score_example.json \
+  --out outputs/zeroshot.wav \
+  --save-controls outputs/zeroshot_controls.npz
+```
+
+合わせ込みを使う場合は、参照音声に時間合わせした音素・長さ・F0 を持つ JSON を `--reference-score` で指定します。
+
+```bash
+python scripts/zeroshot_infer.py \
+  --checkpoint models/zeroshot_v1.pt \
+  --reference reference.wav \
+  --score examples/zeroshot/score_example.json \
+  --reference-score reference_score.json \
+  --fit-steps 100 \
+  --out outputs/zeroshot_fitted.wav
+```
+
+`--save-controls` は `areas`, `rd`, `velum`, `amplitude`, `breath`, `turbulence`, `location`, `f0`, `pos`, `context`, `length_cm`, `nose_area` を含む NPZ を保存します。
+
+`zeroshot_train.py` は汎用 JSONL を読みます。1 行に `wav`（相対または絶対パス）、`phonemes`、`durations` または `frames`、`f0`（Npy パスまたは数値配列）、`speaker`（文字列）を指定します。`durations` は音素ごとの秒数、`frames` は音素ごとの 10 ms フレーム数、`f0` は 10 ms ごとの値です。OpenVoice が無い環境では、OpenVoice v2 と同じ 256 次元の `embedding` 配列または Npy パスを指定できます。
+
+```json
+{"wav":"audio.wav","phonemes":["a","s","a"],"frames":[8,6,8],"f0":"pitch.npy","speaker":"voice_1"}
+```
+
+```bash
+python scripts/zeroshot_train.py --jsonl examples.jsonl --steps 1000 --out models/custom_zero_shot.pt
+```
+
+### English
+
+The model extracts an OpenVoice v2 tone-colour embedding from a reference voice, estimates vocal-tract body parameters, and synthesizes a score from phonemes, durations, and F0. About ten seconds of reference audio is a practical starting point. The output does not fully reproduce an individual voice. To adapt the body to aligned reference audio, provide an aligned score with `--reference-score` and set `--fit-steps N`. Reference audio is not included.
+
+Get the OpenVoice code and extract the official [OpenVoice v2 checkpoint archive](https://myshell-public-repo-host.s3.amazonaws.com/openvoice/checkpoints_v2_0417.zip) at its root. The tone-colour converter checkpoint belongs in `checkpoints_v2/converter/`. The weights are not bundled here. Set `OPENVOICE_ROOT` to the OpenVoice root or pass `--openvoice-root` to the command.
+
+`zeroshot_train.py` reads one JSON object per JSONL line. Required keys are `wav` (relative or absolute path), `phonemes`, `durations` or `frames`, `f0` (an Npy path or numeric array), and `speaker` (string). Durations are in seconds; frame counts use 10 ms units; F0 has one value per 10 ms frame. When OpenVoice is unavailable, supply an `embedding` array or Npy path containing a 256-dimensional OpenVoice v2 embedding.
 
 ## ライセンス / License
 
